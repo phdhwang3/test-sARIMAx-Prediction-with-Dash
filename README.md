@@ -26,11 +26,7 @@ My Time series model: prediction of air passengers with the data on the internet
 ### prediction and summary of sARIMAx modeling
 * Tab-1: Showing a predicted trend
 
-![alt text](Tab1_Copy-1.png)
-
 * Tab-2: Text results from model summary
-
-![alt text](Tab2_Copy-1.png)
 
 ---
 
